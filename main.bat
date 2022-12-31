@@ -15,9 +15,9 @@ wget.exe -O "Template.zip" %template_zip%
 7z.exe x Template.zip -r -o.\output
 xcopy fonts\*.ttf output\system\fonts /E /Q /C /Y
 
-ren output\system\fonts\MapleMono-SC-NF-Light.ttf fontch3.ttf
-ren output\system\fonts\MapleMono-SC-NF-Regular.ttf fontch4.ttf
-ren output\system\fonts\MapleMono-SC-NF-Bold.ttf fontch5.ttf
+ren output\system\fonts\MapleMono-SC-NF-Light.ttf fontchw3.ttf
+ren output\system\fonts\MapleMono-SC-NF-Regular.ttf fontchw4.ttf
+ren output\system\fonts\MapleMono-SC-NF-Bold.ttf fontchw5.ttf
 
 del output\system\fonts\MapleMono-SC-NF-LightItalic.ttf
 del output\system\fonts\MapleMono-SC-NF-Italic.ttf
