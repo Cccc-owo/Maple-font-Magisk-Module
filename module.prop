@@ -1,8 +1,8 @@
 # id 只能填 字母 数字 半角符号
 id=maple-font
 name=Maple-font Magisk 字体模块
-version=1.0.1
-versionCode=2
+version=1.0.2
+versionCode=3
 author=Cccc_ & lxgw & subframe7536
 description=一个将系统字体替换为 Maple-font 的 Magisk 模块
 updateJson=https://raw.fastgit.org/Cccc-owo/Maple-font-Magisk-Module/main/update.json

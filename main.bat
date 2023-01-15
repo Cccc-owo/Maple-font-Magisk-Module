@@ -1,5 +1,5 @@
 @ECHO OFF
-set font_zip=https://github.com/subframe7536/Maple-font/releases/download/v6.0/MapleMono-SC-NF.zip
+set font_zip=https://github.com/subframe7536/Maple-font/releases/download/v6.1/MapleMono-SC-NF.zip
 set template_zip=https://github.com/lxgw/advanced-cjk-font-magisk-module-template/releases/download/v3.3.220605/FontTemplateA-Magisk204.zip
 ::checking
 ECHO Time:%date%
